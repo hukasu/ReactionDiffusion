@@ -4,6 +4,8 @@ Implementation of Reaction-Diffusion funtions.
 ## Dependencies
 This project uses the following dependencies:
 1. matplotlib
+2. Pillow
+3. kiwisolver
 
 ## Setting up enviroment
 Create a virtual environment with python, activate the virtual environment on the current terminal instance, and install the dependencies.  
